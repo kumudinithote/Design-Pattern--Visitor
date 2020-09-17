@@ -1,0 +1,4 @@
+[ seismecally => { seismically    } ]
+[ hundrede => { hundreds    } ]
+[ yeer => { year    } ]
+[ tooc => { took    } ]
